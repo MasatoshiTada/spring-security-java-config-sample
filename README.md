@@ -1,3 +1,8 @@
+# Problem (below) was solved!
+Place MvcConfig and SecurityConfig to same ApplicationContext.
+https://github.com/MasatoshiTada/spring-security-java-config-sample/commit/eec17cb77a3fe8d8a0f365d83a7e4b796b78a8dc
+https://docs.spring.io/spring-security/site/docs/5.0.5.RELEASE/reference/htmlsingle/#mvc-requestmatcher
+
 # Environment
 - JDK 8u162
 - macOS 10.13.4
