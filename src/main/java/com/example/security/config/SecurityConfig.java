@@ -19,8 +19,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
     public void configure(WebSecurity web) throws Exception {
-//        web.ignoring().antMatchers("/resources/**"); // OK
-        web.ignoring().mvcMatchers("/resources/**"); // NG - NoSuchBeanDefinitionException!!!
+        web.ignoring().mvcMatchers("/resources/**");
     }
 
     @Override
