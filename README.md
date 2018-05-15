@@ -5,6 +5,9 @@ https://github.com/MasatoshiTada/spring-security-java-config-sample/commit/eec17
 
 https://docs.spring.io/spring-security/site/docs/5.0.5.RELEASE/reference/htmlsingle/#mvc-requestmatcher
 
+# Spring Boot version
+This problem doesn't occur in Spring Boot (Sample is [here](https://github.com/MasatoshiTada/spring-security-boot2-sample))
+
 # Environment
 - JDK 8u162
 - macOS 10.13.4
